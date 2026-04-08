@@ -1,4 +1,4 @@
-package com.afroz.banking_api;
+package com.afroz.bankingapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
