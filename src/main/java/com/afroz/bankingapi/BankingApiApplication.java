@@ -1,4 +1,4 @@
-package com.afroz.banking_api;
+package com.afroz.bankingapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
